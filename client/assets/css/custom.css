@@ -1,0 +1,21 @@
+.primary{
+    background-color: aqua;
+}
+.primary-font{
+    color: aqua;
+}
+.secondary{
+    background-color: crimson;
+}
+.secondary-font{
+    color: crimson;
+}
+.third{
+    background: green;
+}
+.third-font{
+    color: green;
+}
+.img-100-size{
+    width: 100%;
+}
